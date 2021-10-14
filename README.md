@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @w3ichen
+- 🌱 I’m currently studying computer engineering
