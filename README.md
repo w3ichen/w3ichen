@@ -5,6 +5,7 @@
 - Co-founder of [mecsimcalc.com](https://mecsimcalc.com/)
 - Personal website at [w3ichen.github.io](https://w3ichen.github.io/)
 - Partner in [backscnr.com](https://backscnr.com/)
+- Developer and president of [UA Tkd Club](https://uatkd.ca/)
 
 ### My Github Organization
 - [Software Engineering Group Project](https://github.com/CMPUT301W22T16)
