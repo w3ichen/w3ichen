@@ -3,8 +3,8 @@
 
 ### My Notable Projects
 - Co-founder and CTO of [mecsimcalc.com](https://mecsimcalc.com/)
-- CTO in [backscnr.com](https://backscnr.com/)
-- Web developer and president of [UA Tkd Club](https://uatkd.ca/)
+- CTO of [backscnr.com](https://backscnr.com/)
+- Web developer and President of [UA Tkd Club](https://uatkd.ca/)
 - Personal website at [w3ichen.github.io](https://w3ichen.github.io/)
 
 ### My Github Organization
