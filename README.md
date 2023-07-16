@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @w3ichen
 - 🧑‍🎓 I’m currently studying computer engineering
+- ⚙️ APEGA Engineer in Training
 
 ### My Notable Projects
 - Co-founder and CTO of [mecsimcalc.com](https://mecsimcalc.com/)
