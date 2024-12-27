@@ -6,7 +6,7 @@
 - Co-founder and CTO of [mecsimcalc.com](https://mecsimcalc.com/)
 - CTO of [backscnr.com](https://backscnr.com/)
 - Web developer and President of [UA Tkd Club](https://uatkd.ca/)
-- Personal website at [w3ichen.github.io](https://w3ichen.github.io/)
+- Portfolio website at [weichen.fyi](https://weichen.fyi/)
 
 ### My Github Organization
 - [MecSimCalc](https://github.com/MecSimCalc)
