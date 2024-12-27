@@ -5,10 +5,10 @@
 ### My Notable Projects
 - Co-founder and CTO of [mecsimcalc.com](https://mecsimcalc.com/)
 - CTO of [backscnr.com](https://backscnr.com/)
-- Web developer and President of [UA Tkd Club](https://uatkd.ca/)
 - Portfolio website at [weichen.fyi](https://weichen.fyi/)
+- Former President of [UA Tkd Club](https://uatkd.ca/)
 
-### My Github Organization
+### My Github Organizations
 - [MecSimCalc](https://github.com/MecSimCalc)
 - [BackSCNR](https://github.com/BackSCNR)
 - [Software Engineering Group Project](https://github.com/CMPUT301W22T16)
