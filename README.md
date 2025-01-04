@@ -11,7 +11,6 @@
 ### My Github Organizations
 - [MecSimCalc](https://github.com/MecSimCalc)
 - [BackSCNR](https://github.com/BackSCNR)
-- [Software Engineering Group Project](https://github.com/CMPUT301W22T16)
 - [Taekwondo Student Club](https://github.com/UAlberta-Taekwondo-Club)
 
 
