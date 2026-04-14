@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w3ichen
-- 🧑‍🎓 I’m currently studying computer engineering
+- 🧑‍🎓 I’m graduated with my MS in Electrical and Computer Engineering
 - ⚙️ APEGA Engineer in Training
 
 ### My Notable Projects
